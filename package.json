@@ -1,0 +1,19 @@
+{
+  "name": "front_end_clone_of_apple.com",
+  "version": "1.0.0",
+  "description": "front_end_clone_of_apple.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babadee30/SimpleFrontEndDev.git"
+  },
+  "author": "oyedele temidayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babadee30/SimpleFrontEndDev/issues"
+  },
+  "homepage": "https://github.com/babadee30/SimpleFrontEndDev#readme"
+}
